@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
 
-Some information about you!
+A disciple of Christ, Taiwanese CS major at UT Austin. 日本語勉強中, どうぞよろしくお願いします :)
 
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contact information
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:johnnychang6@gmail.com)
