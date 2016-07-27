@@ -6,7 +6,7 @@
 name: Chang Chih Chi //Johnny Chang 
 
 # Short bio or description (displayed in the header)
-description: journey of CS373
+description: A personal journey of life and CS
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://i.imgbox.com/vpn3xsKZ.jpg
@@ -18,15 +18,15 @@ avatar: http://i.imgbox.com/vpn3xsKZ.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: johnnychang6@gmail.com
+  facebook: https://www.facebook.com/johnny.chang.71653
   flickr:
-  github: barryclark/jekyll-now
+  github: johnnychang6
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
